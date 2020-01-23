@@ -1,6 +1,8 @@
 //squadTotal.java
 /*The purpose of this program is to show meaningful variable names,
- *single and multi-line comments in an integer variable*/
+ *single and multi-line comments in an integer variable
+//Love Java 
+//New Comments*/
  
 import Scanner.util.java;
 
